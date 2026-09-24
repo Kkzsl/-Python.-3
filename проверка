@@ -1,3 +1,41 @@
+Skip to content
+Kkzsl
+-Python.-3
+Repository navigation
+Code
+Issues
+1
+ (1)
+Pull requests
+1
+ (1)
+Actions
+Projects
+Wiki
+Security and quality
+Insights
+Settings
+Files
+Go to file
+t
+T
+README.md
+проверка
+-Python.-3
+/проверка
+Kkzsl
+Kkzsl
+калякули
+acbcc43
+ · 
+3 minutes ago
+-Python.-3
+/проверка
+
+Code
+
+Blame
+96 lines (81 loc) · 4.44 KB
 ﻿country_list = {"Ukraine": {"population": 41.2, "area": 603.7}, "Germany": {"population": 83.2, "area": 357},
                 "France": {"population": 67.8, "area": 551.7}, "Italy": {"population": 59, "area": 301.3},
                 "Japan": {"population": 125.7, "area": 377.9}, "UK": {"population": 67.3, "area": 242.5}
@@ -93,4 +131,5 @@ while True:
     print("ГВАГРВАРТВАРАРВРАЛРВРВАІАІ.")
     break
   else:
-    print("Некоректний вибір! Спробуйте ще раз.")
+    print("Некоректний вибір!цццццццццццццццццццццццццццццццццццццццц.")
+ 
