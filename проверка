@@ -90,7 +90,7 @@ while True:
   elif choice == '5':
     max_func(country_list)
   elif choice == '0':
-    print("Роботу програми завершено.")
+    print("ГВАГРВАРТВАРАРВРАЛРВРВАІАІ.")
     break
   else:
     print("Некоректний вибір! Спробуйте ще раз.")
